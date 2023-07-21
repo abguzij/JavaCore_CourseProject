@@ -1,1 +1,1 @@
-# JavaCore_CourseProject
+# Twitter Mini
