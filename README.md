@@ -18,7 +18,7 @@ Users should have the following options:
 - search publications by user type
 
 Users and publications should be stored in text files. The system should be able to load new users and publications from a file by filename.
-## Задачи проекта:
+## Задачи проекта
 Реализовать консольную версию Twitter. 
 
 У пользователей должны быть следующие возможности:
@@ -37,5 +37,5 @@ Users and publications should be stored in text files. The system should be able
 - искать публикации по типу пользователя
 
 Пользователи и публикации должны храниться в текстовых файлах. В системе должна быть возможность загружать новых пользователей и публикации из файла по имени файла.
-## Инструменты и технологии:
+## Инструменты и технологии
 - Java 8
